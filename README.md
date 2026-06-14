@@ -3,7 +3,7 @@
 ### *AI-Powered Career OS & Productivity Suite for Developers*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/veerbhadramt-create/Dev-tracker)
-[![Live Application](https://img.shields.io/badge/Live-Demo-orange?logo=vercel)](https://github.com/veerbhadramt-create/Dev-tracker) *(Update this link once you deploy on Vercel or Netlify)*
+[![Live Application](https://img.shields.io/badge/Live-Demo-orange?logo=vercel)](https://dev-tracker-nu.vercel.app/)
 
 DevTracker is a premium, all-in-one productivity dashboard and career optimizer designed specifically for developers. Build consistent habits, monitor coding progress, organize your development projects, track job applications, and refine your resume against role descriptions using built-in AI intelligence.
 
